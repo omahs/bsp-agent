@@ -251,7 +251,7 @@ export REDIS_PWD=your-redis-pwd
 
 Please install [docker and docker-compose](https://docs.docker.com/compose/install/).
 
-Employ `docker-compose` to get all the necessary services along with the BSP agent to also get running along with the following, from root. Add a .env.dev file (if needed) to accomodate the env vars. The other services are -
+Employ `docker-compose` to get all the necessary services along with the BSP agent to also get running along with the following, from root. Add a .env.dev file (if needed) to accommodate the env vars. The other services are -
 
 1. redis-srv (Open source (BSD licensed), in-memory data structure store)
 1. redis-commander-web (Redis web management tool written in node.js)
